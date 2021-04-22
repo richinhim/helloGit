@@ -3,4 +3,4 @@ Git Study
 
 ## title
 * first
-- first
+- second
